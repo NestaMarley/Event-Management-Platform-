@@ -1,4 +1,4 @@
-# FESTIVO
+# FESTIVO  ( Peer to peer group 12)
 
 My **Event Management Platform**  (Festivo) is a comprehensive software solution designed to assist organizations in planning, executing, and managing events efficiently. It streamlines various aspects of event management, including registration, ticketing, scheduling, marketing, and attendee engagement. By centralizing these functions, the platform enhances the overall event experience for both organizers and participants.
 
